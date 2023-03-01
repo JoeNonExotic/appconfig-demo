@@ -1,0 +1,1 @@
+export * from "./simple-app-config-demo-stack";
